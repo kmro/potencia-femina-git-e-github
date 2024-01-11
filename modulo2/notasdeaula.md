@@ -12,3 +12,5 @@ Nesta aula estamos aprendendo comando be legais e utéis.
 
 ### git add [ caminho do arquivo]
 **Adicionar um  arquivo em especifíco**
+
+### git commit 
